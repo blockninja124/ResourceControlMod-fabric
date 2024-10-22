@@ -1,2 +1,8 @@
 # ResourceControlMod-fabric
-The fabric fork of the resource control mod
+
+The source code for the fabric port of the Minecraft mod Resource Control
+
+[Curseforge](https://www.curseforge.com/minecraft/mc-mods/resourcecontrol)
+[Modrinth]()
+
+For the original forge source, see [ResourceControlMod](https://github.com/blockninja124/ResourceControlMod)
